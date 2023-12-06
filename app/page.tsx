@@ -11,7 +11,7 @@ export default function Home() {
       <div>
         <Player
           title="Livepeer: Real-time Video Streaming"
-          playbackId="181eyoz05v6n5x5k"
+          playbackId={process.env.NEXT_PUBLIC_PLAYBACK_ID}
           showPipButton
           objectFit="cover"
           priority

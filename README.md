@@ -1,5 +1,7 @@
 # Livepeer Next.js Boilerplate
 
+Preconfigured with Next.js, TailwindCSS, and ShadCN UI.
+
 ### Getting started
 
 1. Rename `.env.local.example` to `.env.local`

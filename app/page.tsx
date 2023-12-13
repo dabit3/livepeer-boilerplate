@@ -15,6 +15,7 @@ export default function Home() {
           showPipButton
           objectFit="cover"
           priority
+          autoPlay
         />
       </div>
     </main>
